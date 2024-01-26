@@ -1,7 +1,5 @@
 # nintendo-fan-website
 
-![Nintendo Logo](images/Nintendo.svg)
-
 This is an unofficial fan website dedicated to Nintendo, created by a passionate Nintendo enthusiast. Please note that this project is not affiliated with or endorsed by Nintendo Co., Ltd.
 
 ## Project Overview
